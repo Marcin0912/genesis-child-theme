@@ -1,0 +1,1 @@
+# genesis-child-theme
